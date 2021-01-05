@@ -41,13 +41,11 @@ ul.header li a {
 }
 
 .attribution {
-  position: absolute;
-  bottom: 0;
-  right: 0;
   margin-right: 20px;
   background-color: black;
   color: white;
   padding: 15px;
+  width: max-content;
 }
 
 .box {
